@@ -1,0 +1,71 @@
+define janett = Character('Janette', color="")
+define yenia = Character('Yenya', color="")
+define bel = Character('Whitielle', color="")
+define me = Character('Me', color="")
+define voice = Character('Strange voice', color="")
+define someone = Character('Someone', color="")
+define teacher = Character('The Teacher', color="")
+define malh = Character('Malh', color="")
+define first_classm = Character('Serge', color ="")
+define second_classm = Character('Volodya', color ="")
+define third_classm = Character('Slavic', color ="")
+define mum = Character('Mum', color ="")
+
+
+"I listened to the silence."
+"All around me the whole air was filled with it."
+"I breathed it with the moist and fresh smell of almost autumnal woods."
+"The summer was coming to an end and I've already begun to miss it."
+"I will be asleep soon, and after it everything will end. Never again shall I see such summer, or such me."
+"Maybe next year the person I will have become will come here, and then, filled with sorrow, looking all around at his favourite places, he will take a deep and happy breath."
+"But even if it happens someday, it will be a distant future. At present I simply can't imagine whether I still will like them in a couple of years."
+"The thing I wanted the most that day was to dissappear into that air, to flow together with silence such strong that it could tear my heart apart, and yet scarcely disturbed by whispering of leaves"
+"I wanted to stay in that moment forever. I wanted to become a part of calm and endless eternity. No thoughts, only feelings of piercing emptiness and silence."
+
+"I came to water, fell on knees and looked at my reflection. Wierd and strange was the face I saw there, it seemed abnormal to me."
+"I never thought of me like of the man I saw in that water."
+"It always appeared to me that I was a mixture of thoughts and feelings. Sometimes I even had forgotten that for another people I was a certain shape with a certain appearence, voice and character."
+
+"But, all in all, I rarely used to talk to someone."
+"I had many occasional acquaintances, but I hadn't any idea how to behave myself with them. And at the end we realised that we aren't interested in each other."
+"And only one female friend of mine had shared my solitude for many years."
+
+"I don't know why she was doing it. I always was and, maybe, still is rather unsociable person."
+"It wasn't that I tryed to escape from communication, but yet I had done nothing to keep it up."
+"I was barely interested in other people or their feelings."
+
+"Could even someone be delighted with this summer sunset as I am now?"
+"Can even one of them understand all this? Feel the same things I feel."
+"Hardly. But I'm okay with it."
+
+"The sun began to set. Each new star in the nightsky made me sadder and sadder."
+"Sometimes the reality around is changing much faster than you are. And such was that night."
+"Defenitely, I was not ready to proceed further. I was afraid of becoming asleep and awakening somewhere in another time."
+"Of leaving this story and begining the new one. Everything was happening too fast."
+
+"But what a beautiful night was the one that was coming! I enjoyed calling her 'mother' in my thoughts."
+"She always protected my, giving me powers and inspiration that I took from our affinity."
+"It didn't metter where I am, but at night I always felt the same: I am home."
+
+"Many times like today I had been strolling aimlessly through the woods until coming to this special place."
+"There my walkings used to end. I usually said good-bye to the day luminary, saw it off and went home."
+"But sometimes, especially in summer, I could fall asleep right there, lying on a soft and flavoured grass."
+"Also it was a perfect place for staying alone and playing the sopilka."
+"There were moments when I had a feeling that I was not alone. That someone was near me, was listening to me."
+"Or I simply wanted that someone was there. And that thought made me play better."
+
+"I disliked falling asleep very much. Yes, I liked sleeping or being awake, but falling asleep or waking up — these things were rather annoying."
+"I hated so much the feeling of staying in this world while another part of me is running somewhere through the shreds of unreality."
+"Thus I could not understand what was happening here and there."
+
+"But in this place, nearby the waterfall, where young trees and high grass grew, and the sky was too wide, there it was a pleasure to fall asleep."
+"Especially if I had been doing it together with the sun. And in mornings its rays were shining at my face, forcing me to awake."
+"But I simply turned on the other side and continued to sleep then."
+"I was pleased to feel myself as a part of that wonderful place. That's why that evening I decided to stay there until morning."
+
+
+"I was lying on my back and looking at stars until my eyes closed."
+"It seemed that my mind was still sliding through the surface of reality."
+"I wasn't in a dream and yet I stopped to notice anything around me."
+"I was thinking that someone was near. Someone with sweat female voice. Someone was standing and singing somewhere, but that miracle song was so faraway that I could barely here it."
+"And then it faded, letting me at last to fall asleep."

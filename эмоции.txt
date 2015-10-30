@@ -1,17 +1,17 @@
 show jenia cheerful
 show jenia sweet
 show jenia depressed
-show jenia hysterical //нервная типа
-show jenia agitated //взволнована
+show jenia hysterical //РЅРµСЂРІРЅР°СЏ С‚РёРїР°
+show jenia agitated //РІР·РІРѕР»РЅРѕРІР°РЅР°
 show jenia shy
 show jenia guilty
 show jenia normal
-show jenia tongue
+show jenia tongue  //РїРѕРєР°Р·С‹РІР°РµС‚СЃСЏ СЏР·С‹Рє
 show jenia angry
- //показывается язык
 
 
-с улыбкой
+
+СЃ СѓР»С‹Р±РєРѕР№
 show janett disappointed
 show janett interested
 show janett nervous
@@ -20,9 +20,9 @@ show janett sentimental
 show janett pleased
 show janett funny
 show janett insidious 
-коварны
+РєРѕРІР°СЂРЅС‹
 
-в сторону
+РІ СЃС‚РѕСЂРѕРЅСѓ
 show bela calm
 show bela hopeful
 show bela upset
@@ -36,5 +36,5 @@ show teacher calm
 show teacher nervous
 
 
-*Спрайт будет: это полная, но добродушная женщина ,с жёлто-белыми волосами и в милом фартуке* 
+*РЎРїСЂР°Р№С‚ Р±СѓРґРµС‚: СЌС‚Рѕ РїРѕР»РЅР°СЏ, РЅРѕ РґРѕР±СЂРѕРґСѓС€РЅР°СЏ Р¶РµРЅС‰РёРЅР° ,СЃ Р¶С‘Р»С‚Рѕ-Р±РµР»С‹РјРё РІРѕР»РѕСЃР°РјРё Рё РІ РјРёР»РѕРј С„Р°СЂС‚СѓРєРµ* 
 show yenia_mother
